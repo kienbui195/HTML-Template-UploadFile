@@ -1,0 +1,8 @@
+{
+  "name": "ThucHanh-XD tinh nang upload hinh anh trong form",
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable": "^2.0.1",
+    "qs": "^6.11.0"
+  }
+}
